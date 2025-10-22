@@ -56,4 +56,4 @@ Designed a professional, easy-to-navigate dashboard
 
 📸 Dashboard Preview
 
-(Add a screenshot or GIF of your dashboard here)
+https://github.com/harshini-sri-s/Healthcare-metrics-dashboard/blob/main/Healthmetrics%20Dashboard.png
